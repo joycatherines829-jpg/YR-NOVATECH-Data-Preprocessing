@@ -1,0 +1,23 @@
+
+YR NOVATECH - TASK 2 REPORT
+
+Project: Data Collection and Preprocessing
+
+Original records: 48842
+Original columns: 15
+
+Missing values before cleaning: 6465
+Duplicate records removed: 29
+Remaining records: 48813
+Remaining missing values: 0
+
+Preprocessing completed:
+1. Dataset collection
+2. Missing value handling
+3. Duplicate removal
+4. Data type inspection
+5. Outlier handling using IQR
+6. Feature engineering
+7. Cleaned dataset export
+
+Final dataset shape: (48813, 16)
